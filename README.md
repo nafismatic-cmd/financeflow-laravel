@@ -32,48 +32,30 @@ Technology
 
 Usage
 
-PHP
+PHP - Backend Programming
 
-Backend Programming
+Laravel - Backend Framework
 
-Laravel
+MySQL - Database
 
-Backend Framework
+Blade - Frontend Templating
 
-MySQL
+HTML & CSS - User Interface
 
-Database
+JavaScript - Frontend Interactivity
 
-Blade
+Chart.js - Financial Visualization
 
-Frontend Templating
+Laravel Sanctum - API Authentication
 
-HTML & CSS
-
-User Interface
-
-JavaScript
-
-Frontend Interactivity
-
-Chart.js
-
-Financial Visualization
-
-Laravel Sanctum
-
-API Authentication
-
-Postman
-
-API Testing
+Postman - API Testing
 
 📸 Preview
 
-<!-- Add your project screenshots here -->
+<!-- Next Time -->
 
 <!-- Example:
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Next Time)
 -->
 
 📂 Project Structure
